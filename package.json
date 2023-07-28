@@ -1,0 +1,22 @@
+{
+  "name": "battleshipbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isra2awad/battleshipBasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isra2awad/battleshipBasic/issues"
+  },
+  "homepage": "https://github.com/isra2awad/battleshipBasic#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
